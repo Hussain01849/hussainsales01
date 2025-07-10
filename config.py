@@ -1,0 +1,4 @@
+# config.py
+BOT_TOKEN = "7977009050:AAF0GXttHdo6zp7VpVnQaHcttRRIlk4aVwM"
+CHANNEL_USERNAME = "@YourChannel"
+TWITTER_USERNAME = "@YourTwitter"
